@@ -133,7 +133,7 @@ editor: visual
 -   Sedation
 -   Not reported
 
-33. Type of surgery (if none state "None")
+33. Types of surgery (if none state "None")
 
 -   Cardiac <br/>
 -   Colorectal
