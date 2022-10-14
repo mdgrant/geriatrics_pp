@@ -17,20 +17,13 @@ editor: visual
 
 5.  Study Question
 
--   KQ1: Preoperative Evaluation
-
+-   KQ1: Preoperative Evaluation <br/>
 -   KQ2: Prehabilitation
-
 -   KQ3: Regional versus General
-
 -   KQ4: Intravenous versus Inhaled
-
 -   KQ5: Potentially Inappropriate Medications
-
 -   KQ6: Pharmacologic Delirium Prophylaxis
-
 -   KQ7: Postoperative Regional Anesthesia
-
 -   KQ8: PACU Delirium Screening
 
 6.  Start date (MM/YY)
@@ -51,7 +44,7 @@ editor: visual
 
 13. Sponsor
 
--   Public or nonprofit
+-   Public or nonprofit<br/>
 -   Industry
 -   Public, nonprofit, and industry
 -   None
@@ -65,7 +58,7 @@ editor: visual
 
 17. Study design
 
--   Randomized Controlled Trial (parallel)
+-   Randomized Controlled Trial (parallel)<br/>
 -   Cluster Randomized
 -   Crossover Trial
 -   Non-randomized clinical trial
@@ -93,7 +86,7 @@ editor: visual
 
 23. Setting
 
--   Ambulatory
+-   Ambulatory<br/>
 -   Hospital
 -   Other
 
@@ -112,7 +105,7 @@ editor: visual
 
 29. Stated primary outcome(s)
 
--   Postoperative delirium
+-   Postoperative delirium<br/>
 -   Delayed neurocognitive recovery
 -   Stroke
 -   Intraoperative awareness
@@ -135,14 +128,14 @@ editor: visual
 
 32. Anesthetic
 
--   General
+-   General<br/>
 -   Regional
 -   Sedation
 -   Not reported
 
 33. Type of surgery (if none state "None")
 
--   Cardiac
+-   Cardiac <br/>
 -   Colorectal
 -   Gynecological
 -   Gastrointestinal
