@@ -18,12 +18,19 @@ editor: visual
 5.  Study Question
 
 -   KQ1: Preoperative Evaluation
+
 -   KQ2: Prehabilitation
+
 -   KQ3: Regional versus General
+
 -   KQ4: Intravenous versus Inhaled
+
 -   KQ5: Potentially Inappropriate Medications
+
 -   KQ6: Pharmacologic Delirium Prophylaxis
+
 -   KQ7: Postoperative Regional Anesthesia
+
 -   KQ8: PACU Delirium Screening
 
 6.  Start date (MM/YY)

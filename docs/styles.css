@@ -8,3 +8,7 @@
   margin-right: -300px;
   margin-left: 250px;
 }
+
+ul{
+  list-style-type: circle;
+}
