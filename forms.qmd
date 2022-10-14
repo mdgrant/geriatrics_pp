@@ -3,9 +3,9 @@ title: "Forms"
 editor: visual
 ---
 
-# Study Characteristics
+## Study Characteristics
 
-## Identifiers
+### Identifiers
 
 1.  Enter Refid
 
@@ -40,7 +40,7 @@ editor: visual
 
 12. Non-very high HDI country (see WHO report) Yes
 
-## Funding
+### Funding
 
 13. Sponsor
 
@@ -54,7 +54,7 @@ editor: visual
 
 15. Author COI No COI Report COI Not reported
 
-## Characteristics
+### Characteristics
 
 17. Study design
 

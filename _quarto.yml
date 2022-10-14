@@ -12,8 +12,8 @@ book:
     - intro.qmd
     - kq5_pim.qmd
     - summary.qmd
-    - references.qmd
     - forms.qmd
+    - references.qmd
 
 bibliography: references.bib
 
