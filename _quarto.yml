@@ -13,6 +13,7 @@ book:
     - kq5_pim.qmd
     - summary.qmd
     - references.qmd
+    - forms.qmd
 
 bibliography: references.bib
 

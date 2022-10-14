@@ -1,0 +1,169 @@
+---
+title: "Forms"
+editor: visual
+---
+
+# Study Characteristics
+
+## Identifiers
+
+1.  Enter Refid
+
+2.  First author last name
+
+3.  Year of publication
+
+4.  Reviewer initials
+
+5.  Study Question
+
+-   KQ1: Preoperative Evaluation
+-   KQ2: Prehabilitation
+-   KQ3: Regional versus General
+-   KQ4: Intravenous versus Inhaled
+-   KQ5: Potentially Inappropriate Medications
+-   KQ6: Pharmacologic Delirium Prophylaxis
+-   KQ7: Postoperative Regional Anesthesia
+-   KQ8: PACU Delirium Screening
+
+6.  Start date (MM/YY)
+
+7.  End date (MM/YY)
+
+8.  Registered Yes No Uncertain
+
+9.  NCT or other registration number
+
+10. Country
+
+11. Multinational (list)
+
+12. Non-very high HDI country (see WHO report) Yes
+
+## Funding
+
+13. Sponsor
+
+-   Public or nonprofit
+-   Industry
+-   Public, nonprofit, and industry
+-   None
+-   Not reported
+
+14. Sponsor description
+
+15. Author COI No COI Report COI Not reported
+
+## Characteristics
+
+17. Study design
+
+-   Randomized Controlled Trial (parallel)
+-   Cluster Randomized
+-   Crossover Trial
+-   Non-randomized clinical trial
+-   Before-after/Interrupted time series
+-   Prospective Cohort (observational)
+-   Retrospective Cohort (observational)
+-   Cross-sectional
+-   Case-control
+-   Fully paired (diagnostic)
+-   Case series
+-   Other
+
+19. Research letter Yes
+
+20. Pilot study Yes
+
+21. Trial Phase
+
+-   Phase I
+-   Phase II
+-   Phase III
+-   Phase IV
+
+22. Setting description
+
+23. Setting
+
+-   Ambulatory
+-   Hospital
+-   Other
+
+25. Inclusion criteria (short description)
+
+26. Exclusion criteria (short description)
+
+27. Number of centers
+
+28. Subgroups
+
+-   Obesity
+-   Diabetes
+-   Age
+-   Sex
+
+29. Stated primary outcome(s)
+
+-   Postoperative delirium
+-   Delayed neurocognitive recovery
+-   Stroke
+-   Intraoperative awareness
+-   Quality of recovery
+-   Depression
+-   Patient/caregiver satisfaction
+-   Valued life activities
+-   Functional status
+-   Health related quality of life
+-   Pain
+-   Opioid use
+-   Complications
+-   Length of stay
+-   Discharge location (home/rehab)
+-   Readmission
+-   Mortality (30-, 180-, 365-day)
+-   Other
+
+31. Arms (n)
+
+32. Anesthetic
+
+-   General
+-   Regional
+-   Sedation
+-   Not reported
+
+33. Type of surgery (if none state "None")
+
+-   Cardiac
+-   Colorectal
+-   Gynecological
+-   Gastrointestinal
+-   General
+-   Head and neck
+-   Hepatic
+-   Neurosurgical
+-   Ophthalmic
+-   Oral/Maxillofacial
+-   Ortho total knee replacement
+-   Ortho hip arthroplasty
+-   Ortho other
+-   Otolaryngological (ENT)
+-   Plastic/Cosmetic
+-   Thoracic
+-   Urologic
+-   Vascular
+-   Various (4 or more)
+-   Other
+
+34. List of specific surgical procedures separated by semicolons
+
+35. Number enrolled
+
+36. Number analyzed
+
+37. Notes
+
+38. Main study results
+
+39. Comment
