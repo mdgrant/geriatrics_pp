@@ -1,9 +1,5 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+Draft materials. Not to be cited.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+Corrections, suggestions for additions, or general comment can be sent to [Mark Grant](mailto:m.grant@asahq.org).
