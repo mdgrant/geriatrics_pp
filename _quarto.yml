@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "Geriatrics Practice Parameter"
+  author: "Mark Grant"
+  date: "today"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - kq5_pim.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    # max-width: 5000 px
+    fontsize: 1.1em
+    margin-left: -400px
+    margin-right: -100px
+    css: styles.css
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
