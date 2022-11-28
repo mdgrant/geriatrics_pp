@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Geriatrics",
     "section": "",
-    "text": "Draft materials. Not to be cited.\nCorrections, suggestions for additions, or general comment can be sent to Mark Grant."
+    "text": "Preface\nDraft materials. Not to be cited.\nCorrections, suggestions for additions, or general comment can be sent to Mark Grant."
   },
   {
     "objectID": "intro.html",
@@ -89,5 +89,19 @@
     "title": "1  Draft Systematic Review Protocol",
     "section": "1.1 Background",
     "text": "1.1 Background\nBetween 2019 and 2060, the number of US adults aged 65 years or older will likely increase from 54 to 95 million; the oldest-old (85+ years) will grow from 6.6 to 19 million over the same period.1,2 These demographic shifts carry significant implications for the practice of anesthesiology. In 2007, the elderly (15% of the US population) underwent 35% of inpatient surgeries.3 In 2006, 32% of outpatient surgeries were performed in the elderly.4 Moreover, the risk of postoperative complications increases with age.5,6 Improving the quality of perioperative care for older adults is a major priority for patients, providers, and policy makers."
+  },
+  {
+    "objectID": "kq5_pim.html#key-question",
+    "href": "kq5_pim.html#key-question",
+    "title": "2  Potentially Inappropriate Medications (KQ5)",
+    "section": "2.1 Key Question",
+    "text": "2.1 Key Question\nAmong geriatric patients undergoing surgery and anesthesia, do commonly used potentially inappropriate medications administered during the perioperative period increase the risk of postoperative delirium or other adverse outcomes?\n\n2.1.1 Interventions of Interest\n\nAnticholinergics \nAntipsychotics\nBenzodiazepines\nCorticosteroids\nKetorolac and other NSAIDs\nH2-receptor antagonists\nNonbenzodiazepine benzodiazepine receptor agonist hypnotics: eszopiclone, zaleplon, zolpidem"
+  },
+  {
+    "objectID": "forms.html#forms",
+    "href": "forms.html#forms",
+    "title": "3  Forms and Data Dictionary",
+    "section": "3.2 Forms",
+    "text": "3.2 Forms\nStudy Characteristics\nStudy Arm\nContinous Outcomes\nDichotomous Outcomes\nLikert Outcomes\n\n3.2.1 Identifiers\nRefid (record number)\nFirst author last name\nYear of publication\nReviewer initials\nStudy Question\n\nKQ1: Preoperative Evaluation \nKQ2: Prehabilitation\nKQ3: Regional versus General\nKQ4: Intravenous versus Inhaled\nKQ5: Potentially Inappropriate Medications\nKQ6: Pharmacologic Delirium Prophylaxis\nKQ7: Postoperative Regional Anesthesia\nKQ8: PACU Delirium Screening\n\nStart date (MM/YY)\nEnd date (MM/YY)\nRegistered\nNCT or other registration number\nCountry\nMultinational (list)\nNon-very high HDI country <0.8 (see WHO report)\n\n\n3.2.2 Funding\nSponsor\n\nPublic or nonprofit\nIndustry\nPublic, nonprofit, and industry\nNone\nNot reported\n\nSponsor description\nAuthor COI\nAuthor COI description\n\n\n3.2.3 Characteristics\nStudy design\n\nRandomized Controlled Trial (parallel)\nCluster Randomized\nCrossover Trial\nNon-randomized clinical trial\nBefore-after/Interrupted time series\nProspective Cohort (observational)\nRetrospective Cohort (observational)\nCross-sectional\nCase-control\nFully paired (diagnostic)\nCase series\nOther\n\nOther design\nResearch letter\nPilot study\nTrial Phase\nSetting description\nSetting\nSpecify other setting\nInclusion criteria (short description)\nExclusion criteria (short description)\nNumber of centers\nSubgroups\n\nObesity\nDiabetes\nAge\nSex\n\nPrimary outcome(s)\n\nPostoperative delirium\nDelayed neurocognitive recovery\nStroke\nIntraoperative awareness\nQuality of recovery\nDepression\nPatient/caregiver satisfaction\nValued life activities\nFunctional status\nHealth related quality of life\nPain\nOpioid use\nComplications\nLength of stay\nDischarge location (home/rehab)\nReadmission\nMortality (30-, 180-, 365-day)\nOther\n\nOther primary outcome (as above)\nSecondary outcomes (as above)\nOther secondary outcomes (as above)\nOther outcomes not specified as primary or secondary (eg, from registry)\nSource for outcomes\n\nPublication\nRegistry\nProtocol\n\nArms\nAnesthetic\n\nGeneral\nRegional\nSedation\nNot reported\n\nType of surgery (if none state “None”)\n\nCardiac \nColorectal\nGynecological\nGastrointestinal\nGeneral\nHead and neck\nHepatic\nNeurosurgical\nOphthalmic\nOral/Maxillofacial\nOrtho total knee replacement\nOrtho hip arthroplasty\nOrtho other\nOtolaryngological (ENT)\nPlastic/Cosmetic\nThoracic\nUrologic\nVascular\nVarious (4 or more)\nOther\n\nList of specific surgical procedures separated by semicolons\nOther surgery, specified\nPercent hip arthroplasty\nPercent hip fracture\nNumber enrolled\nNumber analyzed\nNotes\nMain study results\nComment"
   }
 ]

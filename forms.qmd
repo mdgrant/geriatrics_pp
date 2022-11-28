@@ -7,9 +7,17 @@ editor: visual
 
 The data dictionary can be [downloaded here](data/data_dictionary_2022-11-16.xlsx)
 
-## Study Characteristics 
+## Forms
 
-A copy of the form can be [downloaded here](data/study_characteristics_form.pdf) 
+[Study Characteristics](forms/studyCharForm_2022-11-21.html)
+
+[Study Arm](forms/studyArmForm_2022-11-21.html)
+
+[Continous Outcomes](forms/continuous_2022-11-28.html)
+
+[Dichotomous Outcomes](forms/dichotomous_2022-11-28.html)
+
+[Likert Outcomes](forms/likert_2022-11-28.html)
 
 ### Identifiers
 
@@ -23,14 +31,14 @@ Reviewer initials
 
 Study Question
 
-- KQ1: Preoperative Evaluation <br/>
-- KQ2: Prehabilitation
-- KQ3: Regional versus General
-- KQ4: Intravenous versus Inhaled
-- KQ5: Potentially Inappropriate Medications
-- KQ6: Pharmacologic Delirium Prophylaxis
-- KQ7: Postoperative Regional Anesthesia
-- KQ8: PACU Delirium Screening
+-   KQ1: Preoperative Evaluation <br/>
+-   KQ2: Prehabilitation
+-   KQ3: Regional versus General
+-   KQ4: Intravenous versus Inhaled
+-   KQ5: Potentially Inappropriate Medications
+-   KQ6: Pharmacologic Delirium Prophylaxis
+-   KQ7: Postoperative Regional Anesthesia
+-   KQ8: PACU Delirium Screening
 
 Start date (MM/YY)
 
@@ -44,7 +52,7 @@ Country
 
 Multinational (list)
 
-Non-very high HDI country <0.8 (see WHO report)
+Non-very high HDI country \<0.8 (see WHO report)
 
 ### Funding
 
@@ -101,31 +109,31 @@ Number of centers
 
 Subgroups
 
-- Obesity<br/>
-- Diabetes
-- Age
-- Sex
+-   Obesity<br/>
+-   Diabetes
+-   Age
+-   Sex
 
 Primary outcome(s)
 
-- Postoperative delirium<br/>
-- Delayed neurocognitive recovery
-- Stroke
-- Intraoperative awareness
-- Quality of recovery
-- Depression
-- Patient/caregiver satisfaction
-- Valued life activities
-- Functional status
-- Health related quality of life
-- Pain
-- Opioid use
-- Complications
-- Length of stay
-- Discharge location (home/rehab)
-- Readmission
-- Mortality (30-, 180-, 365-day)
-- Other
+-   Postoperative delirium<br/>
+-   Delayed neurocognitive recovery
+-   Stroke
+-   Intraoperative awareness
+-   Quality of recovery
+-   Depression
+-   Patient/caregiver satisfaction
+-   Valued life activities
+-   Functional status
+-   Health related quality of life
+-   Pain
+-   Opioid use
+-   Complications
+-   Length of stay
+-   Discharge location (home/rehab)
+-   Readmission
+-   Mortality (30-, 180-, 365-day)
+-   Other
 
 Other primary outcome (as above)
 
@@ -137,42 +145,41 @@ Other outcomes not specified as primary or secondary (eg, from registry)
 
 Source for outcomes
 
-- Publication<br/>
-- Registry
-- Protocol
+-   Publication<br/>
+-   Registry
+-   Protocol
 
 Arms
 
 Anesthetic
 
-- General<br/>
-- Regional
-- Sedation
-- Not reported
-
+-   General<br/>
+-   Regional
+-   Sedation
+-   Not reported
 
 Type of surgery (if none state "None")
 
-- Cardiac <br/>
-- Colorectal
-- Gynecological
-- Gastrointestinal
-- General
-- Head and neck
-- Hepatic
-- Neurosurgical
-- Ophthalmic
-- Oral/Maxillofacial
-- Ortho total knee replacement
-- Ortho hip arthroplasty
-- Ortho other
-- Otolaryngological (ENT)
-- Plastic/Cosmetic
-- Thoracic
-- Urologic
-- Vascular
-- Various (4 or more)
-- Other
+-   Cardiac <br/>
+-   Colorectal
+-   Gynecological
+-   Gastrointestinal
+-   General
+-   Head and neck
+-   Hepatic
+-   Neurosurgical
+-   Ophthalmic
+-   Oral/Maxillofacial
+-   Ortho total knee replacement
+-   Ortho hip arthroplasty
+-   Ortho other
+-   Otolaryngological (ENT)
+-   Plastic/Cosmetic
+-   Thoracic
+-   Urologic
+-   Vascular
+-   Various (4 or more)
+-   Other
 
 List of specific surgical procedures separated by semicolons
 
