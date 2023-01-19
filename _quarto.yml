@@ -10,9 +10,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - kq5_pim.qmd
-    # - summary.qmd
-    - forms.qmd
+    # - forms.qmd
     - references.qmd
 
 # bibliography: references.bib

@@ -3,3 +3,5 @@
 Draft materials. Not to be cited.
 
 Corrections, suggestions for additions, or general comment can be sent to [Mark Grant](mailto:m.grant@asahq.org).
+
+[The working draft of the evidence synthesis can be found here.](https://mdgrant.github.io/geriatrics_synth/)
